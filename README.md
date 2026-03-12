@@ -1,4 +1,6 @@
 # ia_assistent-1
+Файл рабочей тетради <img width="2000" height="2827" alt="image" src="https://github.com/user-attachments/assets/b1fa216f-2b1e-475d-b789-036c499b6bb0" />
+
 Мой первый чат-бот https://t.me/Help_Assistant_designer_bot
 # 🤖 ИИ-ассистент для «Консультант по дизайн-проектам»
 
